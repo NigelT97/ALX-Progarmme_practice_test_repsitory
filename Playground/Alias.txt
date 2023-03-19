@@ -1,0 +1,3 @@
+to create an alias command by giving a command
+but first you need to check if command name exist by testing out: "type command"
+

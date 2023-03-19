@@ -1,0 +1,3 @@
+when making a hard link you use: ln <filename> path(where link to go)
+when making a symbolic link we use '-s' as a wildcard
+`

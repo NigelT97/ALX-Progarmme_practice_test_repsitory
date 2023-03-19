@@ -1,0 +1,7 @@
+when filtering names in files you use 'echo *'
+
+when doing arithmatic calculations its $((expression))
+
+when having combinations you insert {expersion}
+
+
