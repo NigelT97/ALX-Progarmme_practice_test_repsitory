@@ -1,0 +1,2 @@
+#!/bin/bash
+touch Boot{1..4}{A..G}
